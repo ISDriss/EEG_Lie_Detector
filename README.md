@@ -13,7 +13,7 @@ This project is an EEG-based lie detection system. It streams EEG data, allows u
 
 - Python 3.8+
 - Required Python libraries (install via `pip`):
-    - pip install -r requirements.txt
+    - `pip install -r requirements.txt`
 
 ## Usage
 
